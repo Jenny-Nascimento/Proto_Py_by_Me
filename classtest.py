@@ -1,0 +1,1 @@
+(class) InstaPy(username=None, password=None, nogui=False, selenium_local_session=True, use_firefox=False, browser_profile_path=None, page_delay=25, show_logs=True, headless_browser=False, proxy_address=None, proxy_chrome_extension=None, proxy_port=None, disable_image_load=False, bypass_suspicious_attempt=False, bypass_with_mobile=False, multi_logs=True)
