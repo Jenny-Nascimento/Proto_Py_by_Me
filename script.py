@@ -3,7 +3,7 @@ from instapy import smart_run
 from instapy import InstaPy
 
 session = InstaPy(username='jennyeozepelim',
-                  password='Efemac 3',
+                  password='xxxxxxxx',
                   headless_browser=False,
                   want_check_browser=False)
 
