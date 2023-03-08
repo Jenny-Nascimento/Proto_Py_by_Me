@@ -9,7 +9,7 @@ from regex import R
 set_workspace(path=None)
 
 # get an InstaPy session!
-session = InstaPy(username='jennyeozepelim', password= 'Efemac 3', use_firefox= 'true')
+session = InstaPy(username='jennyeozepelim', password= 'xxxxxxx', use_firefox= 'true')
 
 with smart_run(session):
     # general settings
